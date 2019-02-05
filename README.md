@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-"# DicePig" 
-=======
-=======
 # DicePig 
 
->>>>>>> 9696ea76f1f3a7911984d096156aebae4e8f8d4a
 ### A variation of the dice game Pig
 Create a program that will randomly select two numbers from 1-6 (like rolling two dice). Show the dice rolls. You should also show the running score.
 
@@ -94,7 +88,3 @@ Roll again? no
 
 Thank you for playing!
 ```
-<<<<<<< HEAD
->>>>>>> ee05dc4023a8ebc8a35e59055a33e1bd9cd0869e
-=======
->>>>>>> 9696ea76f1f3a7911984d096156aebae4e8f8d4a
